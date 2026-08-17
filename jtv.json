@@ -58,9 +58,9 @@
         "name": "Travelxp HD",
         "key_id": "157cd1bd71a256fe8ab763ba280320e5",
         "key": "6befde8b90b6926423cc83775b8dcb59",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd",
-        "cookie": "__hdnea__=st=1786922284~exp=1786925884~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=939a2aa7c167ec1d13175e88327d15202dba997c7c1b264c6c66c923e181bb9c",
-        "cookie_expires": "17/8/2026 5:48:04 AM IST"
+        "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_HD_MOB/WDVLive/index.mpd",
+        "cookie": "__hdnea__=st=1786930202~exp=1786951802~acl=/*~hmac=9bdbfbad1c327e606bcd6e35536c3f863dcedc0a63e9df03622a009b613151fb",
+        "cookie_expires": "17/8/2026 1:00:02 PM IST"
     },
     {
         "id": "165",
